@@ -1,6 +1,6 @@
 ## jQuery'ye İhtiyacınız Yok
 
-Son zamanlarda Frontend geliştirme ortamları hızla gelişiyor, modern tarayıcılar şu an zaten yeterince iyi DOM/BOM API'ları sağlamış durumda. Artık DOM manipülasyonu ve eventleri için bir de jQuery öğrenmek zorunda değiliz. Aynı zamanda, React, Angular ve Vue gibi yaygın frameworkler sayesinde, artık direkt DOM manipülasyonu yapmak, kaçınılması gereken bir şeye dönüştü, ve jQuery daha önce hiç bu kadar önemsizleşmemişti. Bu projede, en yaygın jQuery methodlarının, IE 10+'un desteklediği saf javascript alternatiflerini bulabilirsiniz.
+Son zamanlarda Frontend geliştirme ortamları hızla gelişiyor, modern tarayıcılar şu an zaten yeterince iyi [DOM/BOM API](http://stackoverflow.com/a/4416323)'ları sağlamış durumda. Artık DOM manipülasyonu ve eventleri için bir de jQuery öğrenmek zorunda değiliz. Aynı zamanda, React, Angular ve Vue gibi yaygın frameworkler sayesinde, artık direkt DOM manipülasyonu yapmak, kaçınılması gereken bir şeye dönüştü, ve jQuery daha önce hiç bu kadar önemsizleşmemişti. Bu projede, en yaygın jQuery methodlarının, IE 10+'un desteklediği saf javascript alternatiflerini bulabilirsiniz.
 
 ## İçindekiler
 
